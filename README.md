@@ -11,7 +11,6 @@ A full-stack smart locker rental system where users can choose **specific boxes*
 safeclock/
 ├── backend/                  # Spring Boot 3 + MySQL
 ├── frontend/                 # React + Vite
-├── docker-compose.yml
 └── logo.png
 ````
 
