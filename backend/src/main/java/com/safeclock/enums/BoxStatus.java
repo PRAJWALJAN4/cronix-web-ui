@@ -1,0 +1,14 @@
+package com.safeclock.enums;
+
+public enum BoxStatus {
+    EMPTY_CLOSED,
+    BOOKED,
+    OCCUPIED_OPEN,
+    OCCUPIED_CLOSED,
+    DISABLED,
+    AWAITING_PAYMENT,
+    OPEN_REQUESTED,
+    CANCEL_REQUESTED,
+    TERMINATE_REQUESTED,
+    BLOCKED
+}
