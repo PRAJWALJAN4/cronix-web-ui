@@ -132,7 +132,7 @@ spring:
 ### Backend
 
 * Spring Boot 3
-* MySQL
+* MySQL lite
 * JWT Authentication
 
 ### Frontend
