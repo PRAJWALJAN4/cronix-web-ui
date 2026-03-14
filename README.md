@@ -35,11 +35,6 @@ The backend creates demo data automatically:
 
   * Phone: `0000000000`
   * Password: `admin123`
-* **Terminals**
-
-  * 2 terminals
-  * 20 boxes each
-  * Location: **Koramangala Mall**
 
 ---
 
